@@ -44,4 +44,4 @@ src="https://skillicons.dev/icons?i=babel,bash,codepen,discord,git,github,linux,
 ### 📈 GitHub Stats: 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxime-Malandain&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="250" height="auto" />
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" width="250" height="auto" />
