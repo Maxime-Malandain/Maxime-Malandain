@@ -2,7 +2,7 @@
 <h2 align="center">Here is an overview of my skills </h2>
 <p align="center" marginTop="50">
 <a href="https://www.linkedin.com/in/maxime-mld/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" height="25" alt="badge linkedin Maxime-Mld"></a>
-<a href="m.malandain-dev@ikmail.com">
+<a href="mailto:m.malandain-dev@ikmail.com">
   <img src="https://img.shields.io/badge/Email-282C34?logo=email&logoColor=0077B5" alt="Email logo" title="Envoyer un e-mail" height="25" />
 </a>
 </p>
