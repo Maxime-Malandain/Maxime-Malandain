@@ -10,7 +10,7 @@
 
 ### Projects:
 
-- 💻 End-of-course team project</br> React / Redux / TypeScript / Material-UI) PostgresSQL  --> [Tok-Tok Front](https://github.com/Maxime-Malandain/Tok-Tok-Front) </br>  Node.js / Express / Sequelize / PostgresSQL  --> [Tok-Tok Back](https://github.com/Maxime-Malandain/Tok-Tok-Back)
+- 💻 End-of-course team project</br> React / Redux / TypeScript / Material-UI) --> [Tok-Tok Front](https://github.com/Maxime-Malandain/Tok-Tok-Front) </br>  Node.js / Express / Sequelize / PostgresSQL  --> [Tok-Tok Back](https://github.com/Maxime-Malandain/Tok-Tok-Back)
 - 🗂️ Portfolio in React --> [Portfolio](https://portfolio-maxime-malandain.netlify.app)
 - 🚧 To do List in React --> Work in Progress
 - 💡 Vegetable garden sowing calendar
